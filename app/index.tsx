@@ -4,8 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Link href="/about">About</Link>
-      <Text>Index</Text>
+      <Link href="/Authorization">Login!</Link>
     </View>
   );
 }
